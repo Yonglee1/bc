@@ -1,0 +1,12 @@
+Package: bb
+Type: Package
+Title: use for test
+Version: 0.1.0
+Author: lyt
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: test test
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
